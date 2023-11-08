@@ -1,0 +1,27 @@
+{
+  "name": "@hasancruk/cruk-img",
+  "version": "0.0.1",
+  "description": "This is an experimental LQIP web component.",
+  "main": "cruk-img.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasancruk/cruk-img.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hasancruk/cruk-img/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": ["img", "image", "LQIP", "low quality image placeholder", "web component", "vanilla", "shadow dom"],
+  "author": {
+    "name": "Hasan Ali",
+    "email": "hasan.ali@cancer.org.uk",
+    "url": "https://www.hasanhaja.com/"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/hasancruk/cruk-img#cruk-img"
+}
