@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width" />
 		<title>CRUK Image Web Component</title>
     <script type="module" src="./cruk-img.js"></script>
-    <link rel="preload" as="image" href="demo-assets/low-res.jpg" fetchpriority="high">
+    <link rel="preload" as="image" href="./demo-assets/low-res.jpg" fetchpriority="high">
 	</head>
 	<body>
     <header>
@@ -16,11 +16,11 @@
       <div>
         <!-- https://unsplash.com/photos/a-cloudy-sky-over-the-ocean-with-a-lighthouse-in-the-distance-Fel_RmObl20?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash -->
         <cruk-img 
-          src="demo-assets/hi-res.jpg" 
-          lowsrc="demo-assets/low-res.jpg"
+          src="./demo-assets/hi-res.jpg" 
+          lowsrc="./demo-assets/low-res.jpg"
           alt="Windswept sea and clouds at sunset, Corbière Lighthouse, St. Brelade, Jersey, Channel Islands"
           width="640"
-          height="347"
+          height="348"
         ></cruk-img>
         <p>The above image is being loaded lazily</p>
       </div>
