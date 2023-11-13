@@ -1,6 +1,6 @@
 {
   "name": "@hasancruk/cruk-img",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This is an experimental LQIP web component.",
   "main": "cruk-img.js",
   "scripts": {
@@ -23,5 +23,5 @@
     "url": "https://www.hasanhaja.com/"
   },
   "license": "MIT",
-  "homepage": "https://github.com/hasancruk/cruk-img#cruk-img"
+  "homepage": "https://github.com/hasancruk/cruk-img#cruk-image"
 }
