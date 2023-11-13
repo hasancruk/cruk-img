@@ -1,6 +1,6 @@
 {
   "name": "@hasancruk/cruk-img",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "This is an experimental LQIP web component.",
   "main": "cruk-img.js",
   "scripts": {
